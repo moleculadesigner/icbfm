@@ -119,8 +119,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="616.80863"
-     inkscape:cy="259.42946"
+     inkscape:cx="334.08151"
+     inkscape:cy="221.31093"
      inkscape:document-units="px"
      inkscape:current-layer="g844"
      showgrid="false"
@@ -128,7 +128,7 @@
      inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:snap-smooth-nodes="true"
@@ -197,14 +197,19 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1042.8572,785.71429"
+       position="250,814.28573"
        orientation="0,1"
        id="guide896"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1232.1429,396.42857"
+       position="253.57143,414.28572"
        orientation="0,1"
        id="guide898"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1032.1429,1082.1429"
+       orientation="0,1"
+       id="guide840"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -215,7 +220,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -238,19 +243,19 @@
       <text
          inkscape:label="Logo Text"
          id="text846"
-         y="402.86279"
-         x="419.07468"
+         y="371.13284"
+         x="440.3378"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:373.33334351px;line-height:1;font-family:P052;-inkscape-font-specification:P052;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
            id="tspan850"
-           y="402.86279"
-           x="419.07468"
+           y="371.13284"
+           x="440.3378"
            sodipodi:role="line">ИХБФМ</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
            id="tspan838"
-           y="776.19617"
-           x="419.07468"
+           y="761.50787"
+           x="440.3378"
            sodipodi:role="line">СО РАН</tspan></text>
     </g>
   </g>

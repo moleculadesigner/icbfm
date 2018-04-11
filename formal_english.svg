@@ -17,10 +17,10 @@
    sodipodi:docname="formal_english.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   inkscape:export-filename="/home/danila/Documents/Identity/Rod_of_Asclepius.png"
+   inkscape:export-filename="/home/danila/Documents/Identity/formal.png"
    inkscape:export-xdpi="70.031807"
    inkscape:export-ydpi="70.031807"
-   viewBox="0 0 2880.0001 1440">
+   viewBox="0 0 2879.9993 1440">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -53,17 +53,17 @@
        is_visible="true" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 1403.1497 : 1"
+       inkscape:vp_x="0 : 1403.1498 : 1"
        inkscape:vp_y="0 : 2666.6671 : 0"
-       inkscape:vp_z="1984.2523 : 1403.1497 : 1"
-       inkscape:persp3d-origin="992.12604 : 935.43301 : 1"
+       inkscape:vp_z="1984.2518 : 1403.1498 : 1"
+       inkscape:persp3d-origin="992.12576 : 935.43302 : 1"
        id="perspective10" />
     <inkscape:perspective
        id="perspective2390"
-       inkscape:persp3d-origin="992.12604 : 935.43301 : 1"
-       inkscape:vp_z="1984.2523 : 1403.1497 : 1"
+       inkscape:persp3d-origin="992.12576 : 935.43302 : 1"
+       inkscape:vp_z="1984.2518 : 1403.1498 : 1"
        inkscape:vp_y="0 : 2666.6671 : 0"
-       inkscape:vp_x="0 : 1403.1497 : 1"
+       inkscape:vp_x="0 : 1403.1498 : 1"
        sodipodi:type="inkscape:persp3d" />
     <inkscape:path-effect
        simplifyJustCoalesce="false"
@@ -95,8 +95,8 @@
        effect="spiro" />
     <inkscape:perspective
        id="perspective10-5"
-       inkscape:persp3d-origin="396.85039 : 374.17322 : 1"
-       inkscape:vp_z="793.70078 : 561.25983 : 1"
+       inkscape:persp3d-origin="396.85029 : 374.17322 : 1"
+       inkscape:vp_z="793.70057 : 561.25984 : 1"
        inkscape:vp_y="0 : 1066.6667 : 0"
        inkscape:vp_x="0 : 561.25983 : 1"
        sodipodi:type="inkscape:persp3d" />
@@ -104,8 +104,8 @@
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 561.25983 : 1"
        inkscape:vp_y="0 : 1066.6667 : 0"
-       inkscape:vp_z="793.70078 : 561.25983 : 1"
-       inkscape:persp3d-origin="396.85039 : 374.17322 : 1"
+       inkscape:vp_z="793.70057 : 561.25984 : 1"
+       inkscape:persp3d-origin="396.85029 : 374.17322 : 1"
        id="perspective2390-6" />
   </defs>
   <sodipodi:namedview
@@ -118,9 +118,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="321.09434"
-     inkscape:cy="259.42946"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="657.66655"
+     inkscape:cy="189.6274"
      inkscape:document-units="px"
      inkscape:current-layer="g844"
      showgrid="false"
@@ -128,16 +128,16 @@
      inkscape:window-height="1024"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:window-maximized="1"
-     fit-margin-top="1.5"
+     fit-margin-top="1.4"
      units="in"
-     fit-margin-left="2.5"
-     fit-margin-bottom="1.5"
-     fit-margin-right="2.5"
+     fit-margin-left="2.75"
+     fit-margin-bottom="1.4"
+     fit-margin-right="2.75"
      inkscape:object-paths="false"
      inkscape:pagecheckerboard="false"
      showborder="true"
@@ -147,62 +147,62 @@
     <inkscape:grid
        type="xygrid"
        id="grid4591"
-       originx="1048.9553"
-       originy="-1014.5105" />
+       originx="1169.8321"
+       originy="-1041.1915" />
     <sodipodi:guide
-       position="5470.5449,708.43258"
+       position="5591.4222,681.75246"
        orientation="1,0"
        id="guide4564"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1440,720.00001"
+       position="1560.878,693.31987"
        orientation="1,0"
        id="guide848"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="540.00001,161.62441"
+       position="660.87801,134.94437"
        orientation="1,0"
        id="guide850"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="2340,479.82246"
+       position="2460.8777,453.14237"
        orientation="1,0"
        id="guide852"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1440,720.00001"
+       position="1560.878,693.31987"
        orientation="0,1"
        id="guide854"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="2444.5692,1128"
+       position="2565.4469,1101.3198"
        orientation="0,1"
        id="guide856"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1440,360.00001"
+       position="1560.878,333.31994"
        orientation="0,1"
        id="guide858"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1042.8572,785.71429"
+       position="1163.7352,759.03415"
        orientation="0,1"
        id="guide896"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1232.1429,396.42857"
+       position="1353.0209,369.7485"
        orientation="0,1"
        id="guide898"
        inkscape:locked="false" />
@@ -215,7 +215,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -223,7 +223,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(560.79515,262.87063)">
+     transform="translate(681.67325,289.5506)">
     <g
        id="g844"
        inkscape:label="Logo"
@@ -238,18 +238,18 @@
       <text
          inkscape:label="Logo Text"
          id="text846"
-         y="402.86279"
-         x="419.07468"
+         y="376.26904"
+         x="424.4462"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:373.33334351px;line-height:1;font-family:P052;-inkscape-font-specification:P052;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
            id="tspan838"
-           y="402.86279"
-           x="419.07468"
+           y="376.26904"
+           x="424.4462"
            sodipodi:role="line">ICBFM</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:P052;-inkscape-font-specification:P052"
-           y="776.19617"
-           x="419.07468"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           y="766.6441"
+           x="424.4462"
            sodipodi:role="line"
            id="tspan842">SB RAS</tspan></text>
     </g>
